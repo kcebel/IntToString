@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\bin\Debug\IntToString.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\bin\Debug\IntToString.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\bin\Debug\IntToString.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.pdb
