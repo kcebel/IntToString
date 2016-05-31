@@ -4,3 +4,6 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToStri
 c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\IntToString\IntToString\obj\Debug\IntToString.pdb
+C:\Users\Mel\Source\Repos\IntToString\IntToString\bin\Debug\IntToString.exe.config
+C:\Users\Mel\Source\Repos\IntToString\IntToString\obj\Debug\IntToString.exe
+C:\Users\Mel\Source\Repos\IntToString\IntToString\obj\Debug\IntToString.pdb
